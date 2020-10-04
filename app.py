@@ -1,6 +1,7 @@
 import os
 import json
 import os
+import boto3
 
 import numpy as np
 import torchvision.models as models
